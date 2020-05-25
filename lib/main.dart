@@ -122,7 +122,7 @@ class homePageState extends State<HomePage> {
                 return ListView.builder(
                   itemCount: snapshot.data.length,
                   itemBuilder: (BuildContext context, int index) {
-                    return snapshot.data[index].nombre.contains(searchString)
+                    return snapshot.data[index].nombre.contains(busquedaHeroes)
                         ? ListTile(
                             leading: CircleAvatar(
                               radius: 20,
