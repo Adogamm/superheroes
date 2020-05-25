@@ -30,28 +30,28 @@ class homePageState extends State<HomePage> {
     var jsonData = jsonDecode(jsonString);
 
     List<SuperHeroes> heroes = [];
-    for (var i in jsonData) {
+    for (var heroedata in jsonData) {
       SuperHeroes he = SuperHeroes(
-          i["imagen"],
-          i["nombre"],
-          i["identidadsecreta"],
-          i["edad"],
-          i["altura"],
-          i["genero"],
-          i["descripcion"]);
+          heroedata["imagen"],
+          heroedata["nombre"],
+          heroedata["identidadsecreta"],
+          heroedata["edad"],
+          heroedata["altura"],
+          heroedata["genero"],
+          heroedata["descripcion"]);
       heroes.add(he);
     }
     return heroes;
   }
 
-  String searchString = "";
+  String busquedaHeroes = "";
   bool _isSearching = false;
-  final searchController = TextEditingController();
+  final controlador = TextEditingController();
 
   AudioPlayer audioPlayer;
   AudioCache audioCache;
 
-  final audioname = "avengers.mp3";
+  final musica = "avengers.mp3";
 
   @override
   void initState() {
@@ -61,7 +61,7 @@ class homePageState extends State<HomePage> {
     audioCache = AudioCache();
 
     setState(() {
-      audioCache.loop(audioname);
+      audioCache.loop(musica);
     });
   }
 
@@ -75,23 +75,23 @@ class homePageState extends State<HomePage> {
         title: _isSearching
             ? TextField(
                 decoration: InputDecoration(
-                    hintText: "Buscando un superheroe",
+                    hintText: "Ingresa el nombre de un superheroe",
                     icon: Icon(Icons.search)),
                 onChanged: (value) {
                   setState(() {
-                    searchString = value;
+                    busquedaHeroes = value;
                   });
                 },
-                controller: searchController,
+                controller: controlador,
               )
-            : Text("Superheroes"),
+            : Text("Enciclopedia de heroes"),
         actions: <Widget>[
           !_isSearching
               ? IconButton(
                   icon: Icon(Icons.search),
                   onPressed: () {
                     setState(() {
-                      searchString = "";
+                      busquedaHeroes = "";
                       this._isSearching = !this._isSearching;
                     });
                   },
