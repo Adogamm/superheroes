@@ -1,0 +1,202 @@
+[
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/149/149117.jpg",
+    "nombre": "spiderman",
+    "identidadsecreta": "Peter Parker",
+    "edad": "16 años",
+    "altura": "168",
+    "genero": "masculino",
+    "descripcion": "Peter Parker es un joven estudiante de preparatoria y un superhéroe que posee habilidades arácnidas bajo el álter ego de Spider-Man,  Aunque él intentó mantener su identidad en secreto, Anthony Stark descubrió quien era en realidad y le reclutó en su lucha contra Steven Rogers durante los eventos de la Guerra Civil de los Vengadores, incidente que le permitió obtener nueva indumentaria y equipamiento de última tecnología."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/130/130595.jpg",
+    "nombre": "capitan america",
+    "identidadsecreta": "Steve Rogers",
+    "edad": "27 años",
+    "altura": "185",
+    "genero": "masculino",
+    "descripcion": "Steve Rogers nació 4 de julio de 1918, de padres inmigrantes Irlandeses pobres, Joseph Rogers y Sarah, creció con una frágil juventud durante la Gran Depresión en los Estados Unidos. El padre de Rogers murió cuando él era un niño y su madre murió de neumonía tiempo después, cuando se encontraba en su adolescencia. Entrando en una casa de huéspedes y teniendo un trabajo como recadero, Steve luchaba por sobrevivir."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/127/127575.jpg",
+    "nombre": "thor",
+    "identidadsecreta": "Thor Odinsson",
+    "edad": "234 años",
+    "altura": "195",
+    "genero": "masculino",
+    "descripcion": "Thor es el hijo de Odín y Jord, que también fue conocida como Gaea, la diosa que fue una de los Dioses Antiguos. Odín buscó engendrar un hijo cuyo poder se derivaría tanto de Asgard como de Midgard (como le llaman a la Tierra los asgardianos), y por lo tanto trató de aparearse con Jord. Odín creó una cueva en Noruega donde Jord dio a luz a Thor. Meses después de que el bebé Thor fue destetado, Odín lo trajo a Asgard para ser criado. La esposa de Odín, la diosa Frigga, hizo de madre de Thor de ahí en adelante. No fue sino hasta muchas décadas más tarde que Thor descubrió que Jord era su madre biológica."
+  },
+
+  {
+    "imagen": "https://vignette.wikia.nocookie.net/marvel/images/0/02/Anthony_Stark_%28Tierra-616%29_por_Granov_002_%28cortada%29.jpg/revision/latest/scale-to-width-down/298?cb=20140227164103&path-prefix=es",
+    "nombre": "iron man",
+    "identidadsecreta": "Tony Stark",
+    "edad": "32 años",
+    "altura": "192",
+    "genero": "maculino",
+    "descripcion": "Stark fue a Vietnam (cambiado recientemente al Golfo Pérsico) para supervisar una prueba de campo. Él ignoró la preocupación de que la seguridad era insuficiente. Stark se tropezó con una granada y un trozo de metralla le llego en su pecho. Herido gravemente, Stark fue prisionero por el líder comunista de Gangangueo, y fue informado de que en una semana la metralla podría penetrar en su corazón y lo mataría. Wong-Chu ofreció a Stark un trato: si construía los comunistas en una arma poderosa, Wong-Chu le permitiría Stark a someterse a una operación para salvar su vida. Sabiendo que esto era una mentira, Stark estuvo de acuerdo, con la esperanza de ganar tiempo y acceso a las herramientas."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/755/75572.jpg",
+    "nombre": "doctor strange",
+    "identidadsecreta": "Steven Strange",
+    "edad": "41 años",
+    "altura": "183",
+    "genero": "masculino",
+    "descripcion": "Stephen Strange El Doctor Stephen Strange era un medico que solo le importaba el dinero hasta que un accidente hirió gravemente sus manos. El con lo poco que tenia busco ayuda de un anciano quien lo a curar sus heridas y convertirse en el hechicero en uno de los hechiceros más poderosos de la Tierra."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/105/105279.jpg",
+    "nombre": "joker",
+    "identidadsecreta": "Desconocido",
+    "edad": "Desconocido",
+    "altura": "186",
+    "genero": "masculino",
+    "descripcion": "Los relatos de los orígenes del Guason han sido variadas y numerosas. Él mismo ha contado la historia de cómo llegó a estar con varias variantes, diciendo que a veces recuerda de una manera, a veces otro, y que si él tiene que tener un pasado, que sea de opción múltiple. Batman: la Broma Asesina lo que se ha mantenido el más consistente es que su primer encuentro con el Batman (Bruce Wayne) fue cuando estaba actuando en la identidad de la \"Capucha Roja\", junto con una banda de matones otros, cometiendo un robo en o cerca de la Equipos Ace Procesamiento químico. Durante este robo que sea disparado en un tanque de productos químicos, o fue empujado accidentalmente por Batman.\n\nLa mayoría de los orígenes terminan con él cayendo en productos químicos que blanquean su piel, hacen su pelo verde, y le da una sonrisa roja permanente. A veces, los productos químicos también son los culpables de su estado mental, y la combinación de la exposición a químicos, y el posible daño cerebral debido a la falta de oxígeno han sido citados como los factores de su locura"
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/632/63296.jpg",
+    "nombre": "superman",
+    "identidadsecreta": "Kal-El",
+    "edad": "32 años",
+    "altura": "191",
+    "genero": "masculino",
+    "descripcion": "Superman es uno de los superhéroes más poderosos del Universo DC. Sus habilidades incluyen increíble fuerza, súper velocidad, invulnerabilidad, aliento congelante, vuelo y visión de calor. Nacido como Kal-El en el planeta Krypton, sus padres Jor-El y Lara le enviaron en un cohete al planeta Tierra, donde sería uno de los últimos sobreviviente de su raza. Su cohete fue descubierto por Jonathan y Martha Kent, quienes lo criaron como su hijo Clark Kent en el pueblo de Smallville, Kansas. En su identidad paralela trabaja como reportero en el Daily Planet en la ciudad de Metrópolis."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/154/154106.jpg",
+    "nombre": "capitana marvel",
+    "identidadsecreta": "Carol Danvers",
+    "edad": "25 años",
+    "altura": "187",
+    "genero": "femenino",
+    "descripcion": "Carol Susan Jane Danvers comenzó su carrera en la fuerza aérea de Estados Unidos y llegó hasta el puesto de jefe de seguridad de Cabo Cañaveral. Allí se vio relacionada con el Capitán Marvel, un soldado Kree que desertaría de sus funciones para proteger a la Tierra de su propio mundo.\n\nCuando se produjo el intento de invasión Kree a manos de Ronan el Acusador acude en ayuda del Capitán Marvel para ofrecerle cobijo, pidiendo una excedencia como jefe de seguridad. Su aeronave falla y se estrella en la Mansión de Los Vengadores pero gracias al Capitán Marvel y a la Visión, logra salir ilesa."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/739/73979.jpg",
+    "nombre": "wolverine",
+    "identidadsecreta": "James Howlett",
+    "edad": "Desconocido",
+    "altura": "185",
+    "genero": "masculino",
+    "descripcion": "James Howlett, conocido como Logan y mejor conocido por el alias Wolverine, es un gran superhéroe de Marvel Cómics, miembro de los X-men, Alpha Flight, X-Force y Los Vengadores. Su nombre en inglés se refiere al animal glotón, un mamífero carnívoro que habita en Norteamérica y norte de Asia, y es famoso por su fuerza y fiereza. Se sabe que trabajo para la CIA. Ha adquirido distintos nombres como Lobezno, Logan, Arma X, Emilio Garra, Parche, Guepardo en algunos países de Hispanoamérica, Lobezno es en España y también, Glotón y en los cómics de Novedades Editores, aunque en otros, como Chile, Argentina, Perú, Venezuela, Paraguay y Uruguay, conservó el nombre original."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/215/215460.jpg",
+    "nombre": "cyborg",
+    "identidadsecreta": "Victor Stone",
+    "edad": "35 años",
+    "altura": "191",
+    "genero": "masculino",
+    "descripcion": "Victor era un estudiante cualquiera con un talento excepcional para el fútbol americano, por lo que varias universidades le ofrecían becas para tenerlo dentro de sus equipos. El joven se deprimía con cierta frecuencia pues tenía poco contacto con su padre ya que este sólo dedicaba tiempo a su trabajo como líder de investigaciones de los Laboratorios S.T.A.R. y veía como algo tonto que su hijo practicara este deporte."
+  },
+
+  {
+    "imagen": "https://vignette.wikia.nocookie.net/marvel/images/d/d8/Cable_and_X-Force_Vol_1_7_Solicit.jpg/revision/latest/scale-to-width-down/310?cb=20130404150831&path-prefix=es",
+    "nombre": "ciclope",
+    "identidadsecreta": "Scott Summers",
+    "edad": "34 años",
+    "altura": "192",
+    "genero": "masculino",
+    "descripcion": "Scott Summers es el mayor de los hijos de Christopher y Katherina Anne. Cuando Scott era todavía un niño su padre llevó a la familia a un viaje en su avión particular, en medio del vuelo fueron atacados por una nave Shi'ar. Christopher impidió que capturasen a sus hijos lanzándolos en el único paracaídas del avión. Durante la caída el paracaídas se incendió y, se hubieran matado, si Scott no hubiese lanzado un rayo óptico de forma inconsciente que amortiguó el golpe aunque Scott se golpeó la cabeza duramente, lo que provocaría su incapacidad para controlar sus poderes en el futuro."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/536/53666.jpg",
+    "nombre": "deadpool",
+    "identidadsecreta": "Wade Wilson",
+    "edad": "31 años",
+    "altura": "187",
+    "genero": "masculino",
+    "descripcion": "No se sabe mucho sobre la infancia de Wade Wilson, ni siquiera si ese debe de ser su nombre. En algún momento después de que su madre muriera de cáncer, su padre fue asesinado por un amigo borracho, y él fue expulsado de las fuerzas especiales del ejército de Estados Unidos, Wade se unió al Proyecto Arma-X."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/786/78671.jpg",
+    "nombre": "linterna verde",
+    "identidadsecreta": "Hal Jordan",
+    "edad": "31 años",
+    "altura": "192",
+    "genero": "masculino",
+    "descripcion": "Hal Jordan es el más conocido de Linternas Verdes. Fue el primer hombre de la tierra incluido en el Cuerpo de los Linternas Verdes, y ha sido anunciado como posiblemente el mejor Linterna Verde de todos los tiempos. Green Lantern es también un miembro fundador de la Justice League of America. Hal también ha sido conocido como Parallax y Aztar."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/177/177364.jpg",
+    "nombre": "shazam",
+    "identidadsecreta": "Billy Batson",
+    "edad": "14 años",
+    "altura": "163",
+    "genero": "masculino",
+    "descripcion": "Shazam es un nombre que ha sido usado por Captain Marvel y otros miembros de la Familia Marvel. Originalmente el nombre pertenecía a un antiguo mago, que vivía en la Roca de la Eternidad y custodiaba los Siete Pecados Mortales. Este mago otorgó poderes a Billy Batson. Billy simplemente tenía que pronunciar el nombre del mago, y se transformaría en Captain Marvel. Más tarde, Billy comenzó a usar el nombre Shazam como su alias en lugar de Captain Marvel. Shazam fue creado por Bill Parker y C.C. Beck, apareciendo por primera vez en Whiz Comics #2 (1940) de Fawcett Comics."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/163/163973.jpg",
+    "nombre": "aquaman",
+    "identidadsecreta": "Arthur Curry",
+    "edad": "38 años",
+    "altura": "194",
+    "genero": "masculino",
+    "descripcion": "Arthur Curry es el hijo de Thomas Curry y la reina de la Atlántida, Atlanna. Su madre fue puesta en cautiverio por relacionarse con un humano pero alcanzó a huir poco tiempo después de dar a luz y le entregó el bebé a Thomas para que lo criara"
+  },
+
+  {
+    "imagen": "https://i0.wp.com/lopezdoriga.com/wp-content/uploads/2018/10/wonder-woman.jpg?resize=980%2C550&ssl=1",
+    "nombre": "mujer maravillla",
+    "identidadsecreta": "Diana",
+    "edad": "2000 años",
+    "altura": "184",
+    "genero": "femenino",
+    "descripcion": "Diana es la hija del dios Zeus y la reina de las amazonas, Hipólita. Como todas las amazonas, fue entrenada en diferentes estilos de combate donde demostró gran talento desde pequeña, esto llamó la atención de Ares quien se convirtió en su maestro convirtiéndola en la más hábil amazona. El avión de Steve Trevor se estrelló cayendo en la Isla Paraíso donde conoce a Diana y ella decide regresarlo a su mundo,[2] donde ella se queda como embajadora estableciéndose en Londres. Al parecer, la pareja tuvo un romance durante esta época, que al terminar dejó devastado al piloto."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/140/140767.jpg",
+    "nombre": "spider woman",
+    "identidadsecreta": "Gwen Stacy",
+    "edad": "16 años",
+    "altura": "181",
+    "genero": "femenino",
+    "descripcion": "Spider-Woman es una superheroína ficticia en los cómics publicados por Marvel Comics. Fue creada por Jason Latour y Robbi Rodriguez. El personaje debutó en Edge of Spider-Verse # 2 como parte de la trama del cómic Spider-Verse"
+  },
+
+  {
+    "imagen": "https://pngimage.net/wp-content/uploads/2018/06/starfire-png-6.png",
+    "nombre": "starfire",
+    "identidadsecreta": "Koriand'r.",
+    "edad": "16 años",
+    "altura": "177",
+    "genero": "femenino",
+    "descripcion": "Starfire es una superheroína ficticia de DC Comics. Su nombre verdadero es Koriand'r. Es una princesa de un mundo extraterrestre conocido como Tamaran. Apareció por primera vez en un número de DC Comics Presents. Se convirtió en miembro de los Jóvenes Titanes y posteriormente se unió a Los Marginales."
+  },
+
+  {
+    "imagen": "https://avatarfiles.alphacoders.com/172/172027.jpg",
+    "nombre": "robin",
+    "identidadsecreta": "Damian Wayne",
+    "edad": "13 años",
+    "altura": "158",
+    "genero": "masculino",
+    "descripcion": "Damian Wayne es un personaje de ficción del universo DC. Damián es el hijo de Bruce Wayne y Talia al Ghul , y por lo tanto nieto del villano Ra's Al Ghul. El personaje apareció originalmente como un niño sin nombre en la historia de 1987 El Hijo del Demonio.\n\nEn 2006, el personaje fue nombrado como Damian Wayne por Grant Morrison, y su introducción a la historia principal llega en Batman # 655, el primer número de Batman e Hijo."
+  },
+
+  {
+    "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/8e4c3336-0621-4c1d-ad77-dee35d7a12d2/dd0ur6d-8e3e0bfe-d357-4ece-854d-fec664edda05.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvOGU0YzMzMzYtMDYyMS00YzFkLWFkNzctZGVlMzVkN2ExMmQyXC9kZDB1cjZkLThlM2UwYmZlLWQzNTctNGVjZS04NTRkLWZlYzY2NGVkZGEwNS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.Uyx4hBP-pTpqxImFf0aPWhwKbCcGUAuhpGK7CzVxE4s",
+    "nombre": "dr. destino",
+    "identidadsecreta": "Kent Nelson",
+    "edad": "27 años",
+    "altura": "187",
+    "genero": "masculino",
+    "descripcion": "Doctor Fate —conocido en español como el Doctor Destino— es un personaje creado por la editorial DC Comics caracterizado por sus poderes mágicos, y uno de los fundadores de la Sociedad de la Justicia de América."
+  }
+]
